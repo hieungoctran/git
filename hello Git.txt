@@ -1,1 +1,8 @@
-Hello Github
+$ git clone
+$ git status
+$ git add *
+$ git commit -m
+$ git push
+$ git commit -a -m
+$ git log
+$ git revert id
